@@ -1,0 +1,23 @@
+{
+  "version": "0.0.0",
+  "private": true,
+  "name": "phone-kitten",
+  "author": "Brian Ford <btford@umich.edu>",
+  "description": "A tutorial application for AngularJS",
+  "repository": "https://github.com/btford/phone-kitten",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  },
+  "scripts": {
+    "start": "http-server -a 0.0.0.0 -p 8000",
+    "test": "karma start",
+    "protractor": "protractor test/protractor-conf.js"
+  },
+  "dependencies": {
+    "angular": "^1.3.3",
+    "angular-mocks": "^1.3.3",
+    "angular-resource": "^1.3.3",
+    "router": "angular/router"
+  }
+}
