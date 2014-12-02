@@ -1,6 +1,6 @@
 # phone-kitten
 
-Angular phonecat tutorial re-written with the WIP [New Angular Router](angular/router).
+Angular phonecat tutorial re-written with the WIP [New Angular Router](https://github.com/angular/router).
 
 
 ## Running the App
