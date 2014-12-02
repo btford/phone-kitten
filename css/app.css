@@ -44,7 +44,7 @@ img.phone {
   display: none;
 }
 
-img.phone:first-child {
+img.phone.active {
   display: block;
 }
 
