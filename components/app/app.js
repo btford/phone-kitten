@@ -15,10 +15,8 @@ config(['componentLoaderProvider', function (componentLoaderProvider) {
     var dashName = dashCase(name);
     return '/components/' + dashName + '/' + dashName + '.html';
   });
-}]).
-run(function (router, $timeout, $location) {
-  router.navigate($location.path());
-});
+}]);
+
 
 function AppController(router) {
   router.config([
