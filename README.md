@@ -14,5 +14,9 @@ npm start
 Then visit `http://localhost:8000`
 
 
+## See Also
+
+* [ember-phonecat](https://github.com/dstaley/ember-phonecat)
+
 ## License
 MIT
