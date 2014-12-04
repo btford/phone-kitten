@@ -18,6 +18,6 @@
     "angular": "^1.3.3",
     "angular-mocks": "^1.3.3",
     "angular-resource": "^1.3.3",
-    "router": "angular/router"
+    "angular-new-router": "~0.0.2"
   }
 }
