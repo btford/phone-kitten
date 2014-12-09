@@ -13,6 +13,19 @@ npm start
 
 Then visit `http://localhost:8000`
 
+## Running end-to-end tests
+
+Star the webserver with:
+
+```shell
+npm start
+```
+
+In another shell tab/pane:
+
+```shell
+protractor protractor.conf.js
+```
 
 ## See Also
 
