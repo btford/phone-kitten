@@ -2,6 +2,7 @@
 
 angular.module('phoneKitten', [
   'ngFuturisticRouter',
+  'ngAnimate',
 
   'phoneKitten.phoneDetail',
   'phoneKitten.phoneList',
